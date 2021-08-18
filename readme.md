@@ -37,9 +37,8 @@ Repository Contents
 
 Release info
 --------------------
-Author		Version		Date		Description of Changes
-
-iotbotscom	00.00.01	08/16/2021	QWARKS FrameWork Demo Initial Public Release
+Author        -    Version     -    Date          -    Description of Changes
+iotbotscom    -    00.00.01    -    08/16/2021    -    	QWARKS FrameWork Demo Initial Public Release
 
 Authors / Contributors
 --------------------

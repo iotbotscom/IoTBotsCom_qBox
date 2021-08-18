@@ -1,5 +1,5 @@
 IoTBotsCom_qBox Demo Library
-===========================================================
+------------------------------
 
 ![qBody Adafruit Feather Compatible Interface Board Kit](https://cdn.shopify.com/s/files/1/0269/3100/3464/products/iotbotscom-qbody-afc-iot-adafruit-humidity_1024x1024@2x.jpg)
 
@@ -26,14 +26,18 @@ Boards Supported
 - [*qBodyMini Adafruit Feather Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbodymini-adafruit-feather-compatible/products/qbodymini-diy-iot-adafruit-feather-compatible-pcb-kit)
 - [*qBodyMini Arduino MKR Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbodymini-arduino-mkr-compatible/products/qbodymini-arduino-mkr-compatible-interface-board-kit)
 
+Dependencies
+--------------------
+- [*IOT-BOTS.COM IoTBotsCom_qBox Demo Library*](https://github.com/iotbotscom/IoTBotsCom_qBox)
+
 Repository Contents
 --------------------
 
-* **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE;
+* **/examples** - Example sketches for the library (.ino). Run these under Arduino IDE;
 * **/src** - Source files for the library (.cpp, .h);
-* **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE;
-* **library.properties** - General library properties for the Arduino package manager;
-* **LICENSE** - License Information.
+* **keywords.txt** - Keywords from this library to be highlighted in Arduino IDE;
+* **library.properties** - General library properties for Arduino Library Manager;
+* **LICENSE** - License Information file.
 
 Release info
 --------------------

@@ -28,7 +28,7 @@ Boards Supported
 
 Dependencies
 --------------------
-- [*IOT-BOTS.COM IoTBotsCom_qBox Demo Library*](https://github.com/iotbotscom/IoTBotsCom_qBox)
+- [*IOT-BOTS.COM IoTBotsCom_qFWK Library*](https://github.com/iotbotscom/IoTBotsCom_qFWK)
 
 Repository Contents
 --------------------

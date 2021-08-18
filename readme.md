@@ -21,10 +21,10 @@ The basic examples to play with the Boards functional parts:
 
 Boards Supported
 --------------------
-[*qBody Adafruit Feather Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbody-adafruit-feather-compatible/products/qbody-adafruit-feather-compatible-interface-board-kit)
-[*qBody Arduino MKR Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbody-arduino-mkr-compatible/products/qbody-arduino-mkr-compatible-interface-board-kit)
-[*qBodyMini Adafruit Feather Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbodymini-adafruit-feather-compatible/products/qbodymini-diy-iot-adafruit-feather-compatible-pcb-kit)
-[*qBodyMini Arduino MKR Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbodymini-arduino-mkr-compatible/products/qbodymini-arduino-mkr-compatible-interface-board-kit)
+- [*qBody Adafruit Feather Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbody-adafruit-feather-compatible/products/qbody-adafruit-feather-compatible-interface-board-kit)
+- [*qBody Arduino MKR Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbody-arduino-mkr-compatible/products/qbody-arduino-mkr-compatible-interface-board-kit)
+- [*qBodyMini Adafruit Feather Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbodymini-adafruit-feather-compatible/products/qbodymini-diy-iot-adafruit-feather-compatible-pcb-kit)
+- [*qBodyMini Arduino MKR Compatible Interface Board Kit*](https://www.iot-bots.com/collections/qbodymini-arduino-mkr-compatible/products/qbodymini-arduino-mkr-compatible-interface-board-kit)
 
 Repository Contents
 --------------------
@@ -37,8 +37,9 @@ Repository Contents
 
 Release info
 --------------------
-Author         Version        Date           Description of Changes
-iotbotscom     00.00.01     08/16/2021       QWARKS FrameWork Demo Initial Public Release
+Author		Version		Date		Description of Changes
+
+iotbotscom	00.00.01	08/16/2021	QWARKS FrameWork Demo Initial Public Release
 
 Authors / Contributors
 --------------------
